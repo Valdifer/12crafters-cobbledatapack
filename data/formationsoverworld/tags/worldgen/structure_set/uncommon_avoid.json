@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:villages",
+    "cobgyms:gym_structure_set",
+    "minecraft:pillager_outposts"
+  ]
+}

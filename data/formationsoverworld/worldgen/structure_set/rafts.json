@@ -1,0 +1,20 @@
+{
+  "placement": {
+    "type": "yungsapi:enhanced_random_spread",
+    "salt": 995602250,
+    "spacing": 25,
+    "separation": 15,
+	"exclusion_zones": [
+      {
+        "chunk_count": 3,
+        "other_set": "cobgyms:gym_structure_set"
+      }
+    ]
+  },
+  "structures": [
+    {
+      "structure": "formationsoverworld:raft",
+      "weight": 1
+    }
+  ]
+}

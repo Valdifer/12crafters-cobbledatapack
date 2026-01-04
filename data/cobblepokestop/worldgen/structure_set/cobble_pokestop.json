@@ -1,0 +1,18 @@
+{
+  "structures": [
+    {
+      "structure": "cobblepokestop:cobble_pokestop",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "yungsapi:enhanced_random_spread",
+    "spacing": 25,
+    "separation": 8,
+    "salt": 1234567890,
+    "enhanced_exclusion_zone": {
+      "other_set": "#cobblepokestop:cobble_pokestop_avoid",
+      "chunk_count": 4
+    }
+  }
+}

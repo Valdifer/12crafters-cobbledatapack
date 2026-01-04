@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:villages",
+    "cobblemonopponents:sand_temple",
+    "cobblemonextrastructures:desert_ruins"
+  ]
+}

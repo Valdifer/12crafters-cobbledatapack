@@ -1,0 +1,18 @@
+{
+  "structures": [
+    {
+      "structure": "cobblemonextrastructures:burned_tower",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "yungsapi:enhanced_random_spread",
+    "salt": 45684621,
+    "spacing": 80,
+    "separation": 70,
+    "enhanced_exclusion_zone": {
+      "other_set": "#cobblemonextrastructures:outskirt_stand_avoid",
+      "chunk_count": 5
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "placement": {
+    "type": "yungsapi:enhanced_random_spread",
+    "salt": 1024917310,
+    "spacing": 50,
+    "separation": 40,
+	"exclusion_zones": [
+      {
+        "chunk_count": 6,
+        "other_set": "cobgyms:gym_structure_set"
+      }
+    ]
+  },
+  "structures": [
+    {
+      "structure": "formationsoverworld:large_temple",
+      "weight": 1
+    },
+    {
+      "structure": "formationsoverworld:witch_tower",
+      "weight": 1
+    }
+  ]
+}

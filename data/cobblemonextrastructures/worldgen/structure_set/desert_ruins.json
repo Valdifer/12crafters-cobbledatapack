@@ -1,0 +1,18 @@
+{
+  "structures": [
+    {
+      "structure": "cobblemonextrastructures:desert_ruins",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "yungsapi:enhanced_random_spread",
+    "salt": 794382361,
+    "spacing": 70,
+    "separation": 60,
+    "enhanced_exclusion_zone": {
+      "other_set": "#cobblemonextrastructures:desert_ruins_avoid",
+      "chunk_count": 5
+    }
+  }
+}
